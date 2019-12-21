@@ -21,9 +21,9 @@ import { from } from 'rxjs';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
     BlogpostModule,
-    CmspageModule
+    CmspageModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
