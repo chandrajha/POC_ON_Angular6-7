@@ -1,0 +1,103 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title":"Sample Blog Post 1",
+      "short_desc":"करोड़ों युवा बेकार शिक्षा और खोखली व्यवस्था से परेशान सड़कों पर भटक रहे हैं, बिना नौकरी। संख्या बढ़ती जा रही। कोई ठोस योजना नहीं इस डेमोग्राफिक डिविडेंड को भुनाने की। लेकिन दूसरे देशों की चिंता है अभी। वहां के लोगों को बसायेंगे भले अपने वाले न बस पाए जीवन में।",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    },
+    {
+        "id": "2",
+        "title":"Sample Blog Post 2",
+        "short_desc":"करोड़ों युवा बेकार शिक्षा और खोखली व्यवस्था से परेशान सड़कों पर भटक रहे हैं, बिना नौकरी। संख्या बढ़ती जा रही। कोई ठोस योजना नहीं इस डेमोग्राफिक डिविडेंड को भुनाने की। लेकिन दूसरे देशों की चिंता है अभी। वहां के लोगों को बसायेंगे भले अपने वाले न बस पाए जीवन में।",
+        "author":"AMRESH JHA",
+        "image":"http://localhost:3000/images/img2.jpg",
+        "created_at":"2020-01-01 04:12:09"
+      },
+      {
+        "id": "3",
+        "title":"Sample Blog Post 3",
+        "short_desc":"करोड़ों युवा बेकार शिक्षा और खोखली व्यवस्था से परेशान सड़कों पर भटक रहे हैं, बिना नौकरी। संख्या बढ़ती जा रही। कोई ठोस योजना नहीं इस डेमोग्राफिक डिविडेंड को भुनाने की। लेकिन दूसरे देशों की चिंता है अभी। वहां के लोगों को बसायेंगे भले अपने वाले न बस पाए जीवन में।",
+        "author":"AMRESH JHA",
+        "image":"http://localhost:3000/images/img3.jpg",
+        "created_at":"2020-01-01 04:12:09"
+      },
+      {
+        "id": "4",
+        "title":"Sample Blog Post 4",
+        "short_desc":"करोड़ों युवा बेकार शिक्षा और खोखली व्यवस्था से परेशान सड़कों पर भटक रहे हैं, बिना नौकरी। संख्या बढ़ती जा रही। कोई ठोस योजना नहीं इस डेमोग्राफिक डिविडेंड को भुनाने की। लेकिन दूसरे देशों की चिंता है अभी। वहां के लोगों को बसायेंगे भले अपने वाले न बस पाए जीवन में।",
+        "author":"AMRESH JHA",
+        "image":"http://localhost:3000/images/img4.jpg",
+        "created_at":"2020-01-01 04:12:09"
+      },
+      {
+        "id": "5",
+        "title":"Sample Blog Post 5",
+        "short_desc":"करोड़ों युवा बेकार शिक्षा और खोखली व्यवस्था से परेशान सड़कों पर भटक रहे हैं, बिना नौकरी। संख्या बढ़ती जा रही। कोई ठोस योजना नहीं इस डेमोग्राफिक डिविडेंड को भुनाने की। लेकिन दूसरे देशों की चिंता है अभी। वहां के लोगों को बसायेंगे भले अपने वाले न बस पाए जीवन में।",
+        "author":"AMRESH JHA",
+        "image":"http://localhost:3000/images/img5.jpg",
+        "created_at":"2020-01-01 04:12:09"
+      },
+      {
+        "id": "6",
+        "title":"Sample Blog Post 6",
+        "short_desc":"करोड़ों युवा बेकार शिक्षा और खोखली व्यवस्था से परेशान सड़कों पर भटक रहे हैं, बिना नौकरी। संख्या बढ़ती जा रही। कोई ठोस योजना नहीं इस डेमोग्राफिक डिविडेंड को भुनाने की। लेकिन दूसरे देशों की चिंता है अभी। वहां के लोगों को बसायेंगे भले अपने वाले न बस पाए जीवन में।",
+        "author":"AMRESH JHA",
+        "image":"http://localhost:3000/images/img6.jpg",
+        "created_at":"2020-01-01 04:12:09"
+      }
+  ],
+  "featured_blogs": [
+    {
+      "id": "1",
+      "title":"Sample Blog Post 1",
+      "short_desc":"India really is not a democratic society. People are scared of the very idea of 'free thinking' and freedoms. They relish subjugation, more so the educated folks. Perhaps it's the fear of freedom truly reaching those deeply subjugated for centuries - the women and Dalits.",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    },
+    {
+      "id": "1",
+      "title":"Sample Blog Post 2",
+      "short_desc":"India really is not a democratic society. People are scared of the very idea of 'free thinking' and freedoms. They relish subjugation, more so the educated folks. Perhaps it's the fear of freedom truly reaching those deeply subjugated for centuries - the women and Dalits.",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    },
+    {
+      "id": "3",
+      "title":"Sample Blog Post 3",
+      "short_desc":"India really is not a democratic society. People are scared of the very idea of 'free thinking' and freedoms. They relish subjugation, more so the educated folks. Perhaps it's the fear of freedom truly reaching those deeply subjugated for centuries - the women and Dalits.",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    },
+    {
+      "id": "4",
+      "title":"Sample Blog Post 4",
+      "short_desc":"India really is not a democratic society. People are scared of the very idea of 'free thinking' and freedoms. They relish subjugation, more so the educated folks. Perhaps it's the fear of freedom truly reaching those deeply subjugated for centuries - the women and Dalits.",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    },
+    {
+      "id": "5",
+      "title":"Sample Blog Post 5",
+      "short_desc":"India really is not a democratic society. People are scared of the very idea of 'free thinking' and freedoms. They relish subjugation, more so the educated folks. Perhaps it's the fear of freedom truly reaching those deeply subjugated for centuries - the women and Dalits.",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    },
+    {
+      "id": "6",
+      "title":"Sample Blog Post 6",
+      "short_desc":"India really is not a democratic society. People are scared of the very idea of 'free thinking' and freedoms. They relish subjugation, more so the educated folks. Perhaps it's the fear of freedom truly reaching those deeply subjugated for centuries - the women and Dalits.",
+      "author":"AMRESH JHA",
+      "image":"http://localhost:3000/images/img1.jpg",
+      "created_at":"2020-01-01 04:12:09"
+    }
+
+    ]
+}
